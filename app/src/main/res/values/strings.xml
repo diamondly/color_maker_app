@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PersistenceColor</string>
+    <string name="startValue">0.000</string>
+    <string name="rgb_start">RGB: 0, 0, 0</string>
+    <string name="reset_msg">All RGB values have been reset to 0.</string>
+    <string name="reset">RESET</string>
+    <string name="save">SAVE</string>
+</resources>
